@@ -1,2 +1,2 @@
-# Introduccion-verilog
+# Introduccion al Verilog
 Introducción al Verilog
